@@ -76,4 +76,5 @@ The project is actively expanding, evolving, and undergoing continuous refactori
 ## Developer
 teri-farti — VoidFiller
 Website: https://teri-farti.github.io/tf_game_page/
+
 GitHub: https://github.com/teri-farti
