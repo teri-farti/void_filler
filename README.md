@@ -1,25 +1,63 @@
+VoidFiller
+VoidFiller is a technology‑focused Minecraft mod developed with an engineering‑driven approach to architecture, system design, and scalability.
+The mod is built using Java + NeoForge and is designed as an expandable ecosystem of machines, energy systems, materials, and infrastructure.
+The project is developed as an engineering‑oriented pet project / portfolio project, with a strong emphasis on code quality, modularity, and architectural clarity.
 
-Installation information
-=======
+Vision
+The goal of this project is to explore and implement:
+- Scalable Minecraft mod architecture
+- A custom energy system (Void Energy)
+- Infrastructure for machines and pipes
+- An expandable material and progression system
+- A modular and extensible architecture
+- Support for various mechanics (structures, mobs, world generation) that have already been implemented
+VoidFiller is designed as a foundation for future technological systems.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+Core Features
+Machines & Systems
+- Void Generator — produces Void Energy
+- Void Extractor — extracts energy from the environment
+- Void Energy Pipe — transports energy (chorus‑plant‑style model)
+- Void Block / Solid Void — unique materials with special properties
+Materials & Items
+- Void Resin
+- Bedrock Shard
+- Void Alloy
+- Void Ingot
+Equipment
+- Void Armor Set
+- Void Toolset (sword, pickaxe, axe, shovel, hoe)
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+Getting Started (Minecraft)
+Requirements
+- Minecraft 1.21.1
+- NeoForge 21.1.218
+- Java 21
+Installation
+- Download the mod from the Releases section
+- Place the file into the mods folder
+- Launch Minecraft through NeoForge
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+Technology Stack
+- Language: Java
+- Modding API: NeoForge
+- Build System: Gradle
+- IDE: IntelliJ IDEA
+- Version Control: Git + GitHub
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+Assets & Legal Notice
+At the current stage of development, the project uses fully original assets.
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Roadmap
+Planned Improvements
+- New materials and progression
+- Architecture optimization and refactoring
+
+Project Status
+Active development
+The project is actively expanding, evolving, and undergoing continuous refactoring.
+
+Developer
+teri-farti — VoidFiller
+Website: https://teri-farti.github.io/tf_game_page/
+GitHub: https://github.com/teri-farti
