@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "RFR",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "voidfiller:void_ingot" },
+    "R": { "item": "voidfiller:void_resin" },
+    "F": { "item": "minecraft:furnace" }
+  },
+  "result": {
+    "id": "voidfiller:void_generator",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    " B ",
+    " B "
+  ],
+  "key": {
+    "A": { "item": "voidfiller:void_alloy" },
+    "B": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "voidfiller:void_pickaxe",
+    "count": 1
+  }
+}

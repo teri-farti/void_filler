@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "voidfiller:block/void_generator" },
+    "facing=south": { "model": "voidfiller:block/void_generator", "y": 180 },
+    "facing=west":  { "model": "voidfiller:block/void_generator", "y": 270 },
+    "facing=east":  { "model": "voidfiller:block/void_generator", "y": 90 }
+  }
+}

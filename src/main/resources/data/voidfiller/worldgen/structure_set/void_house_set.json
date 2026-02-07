@@ -1,0 +1,14 @@
+{
+  "structures": [
+    { "structure": "voidfiller:void_house_1", "weight": 1 },
+    { "structure": "voidfiller:void_house_2", "weight": 1 },
+    { "structure": "voidfiller:void_house_3", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 40,
+    "separation": 20,
+    "salt": 123456,
+    "spread_type": "linear"
+  }
+}

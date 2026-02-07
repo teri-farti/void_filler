@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/chorus_plant",
+  "textures": {
+    "texture": "voidfiller:block/void_pipe",
+    "particle": "voidfiller:block/void_pipe"
+  }
+}

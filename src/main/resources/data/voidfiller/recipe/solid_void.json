@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RIR",
+    "RRR"
+  ],
+  "key": {
+    "R": { "item": "voidfiller:void_resin" },
+    "I": { "item": "voidfiller:void_ingot" }
+  },
+  "result": {
+    "id": "voidfiller:solid_void",
+    "count": 1
+  }
+}

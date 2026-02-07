@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "RCR",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "voidfiller:void_ingot" },
+    "R": { "item": "voidfiller:void_resin" },
+    "C": { "item": "minecraft:cauldron" }
+  },
+  "result": {
+    "id": "voidfiller:void_extractor",
+    "count": 1
+  }
+}

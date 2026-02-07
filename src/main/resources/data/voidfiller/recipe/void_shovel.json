@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A",
+    "B",
+    "B"
+  ],
+  "key": {
+    "A": { "item": "voidfiller:void_alloy" },
+    "B": { "item": "minecraft:stick" }
+  },
+  "result": {
+    "id": "voidfiller:void_shovel",
+    "count": 1
+  }
+}

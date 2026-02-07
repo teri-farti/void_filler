@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "voidfiller:bedrock_shard" },
+    { "item": "voidfiller:void_resin" },
+    { "item": "voidfiller:void_ingot" }
+  ],
+  "result": {
+    "count": 1,
+    "id": "voidfiller:void_alloy"
+  }
+}

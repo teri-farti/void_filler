@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "A A",
+    "A A"
+  ],
+  "key": {
+    "A": { "item": "voidfiller:void_alloy" }
+  },
+  "result": {
+    "id": "voidfiller:void_boots",
+    "count": 1
+  }
+}

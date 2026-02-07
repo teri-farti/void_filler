@@ -1,0 +1,9 @@
+{
+  "feature": "voidfiller:void_underbedrock",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE"
+    }
+  ]
+}

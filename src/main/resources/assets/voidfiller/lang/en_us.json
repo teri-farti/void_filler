@@ -1,0 +1,31 @@
+{
+  "itemGroup.voidfiller": "VoidFiller",
+
+  "block.voidfiller.void_pipe": "Void Energy Pipe",
+  "block.voidfiller.void_generator": "Void Generator",
+  "block.voidfiller.void_extractor": "Void Extractor",
+  "block.voidfiller.solid_void": "Solid Void",
+  "block.voidfiller.void_block": "Void Block",
+
+  "item.voidfiller.void_pipe": "Void Energy Pipe",
+  "item.voidfiller.void_generator": "Void Generator",
+  "item.voidfiller.void_extractor": "Void Extractor",
+  "item.voidfiller.solid_void": "Solid Void",
+  "item.voidfiller.void_block": "Void Block",
+
+  "item.voidfiller.void_resin": "Void Resin",
+  "item.voidfiller.bedrock_shard": "Bedrock Shard",
+  "item.voidfiller.void_alloy": "Void Alloy",
+  "item.voidfiller.void_ingot": "Void Ingot",
+
+  "item.voidfiller.void_helmet": "Void Helmet",
+  "item.voidfiller.void_chestplate": "Void Chestplate",
+  "item.voidfiller.void_leggings": "Void Leggings",
+  "item.voidfiller.void_boots": "Void Boots",
+
+  "item.voidfiller.void_sword": "Void Sword",
+  "item.voidfiller.void_pickaxe": "Void Pickaxe",
+  "item.voidfiller.void_axe": "Void Axe",
+  "item.voidfiller.void_shovel": "Void Shovel",
+  "item.voidfiller.void_hoe": "Void Hoe"
+}

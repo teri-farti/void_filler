@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "voidfiller:block/extractor_down",
+    "up": "voidfiller:block/extractor_on",
+    "north": "voidfiller:block/font",
+    "south": "voidfiller:block/font",
+    "west": "voidfiller:block/font",
+    "east": "voidfiller:block/font",
+    "particle": "voidfiller:block/font"
+  }
+}

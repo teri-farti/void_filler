@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "voidfiller:block/void_block",
+    "particle": "voidfiller:block/void_block"
+  }
+}
