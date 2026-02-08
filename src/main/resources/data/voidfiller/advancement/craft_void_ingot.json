@@ -1,0 +1,21 @@
+{
+  "parent": "voidfiller:extract_void_resin",
+  "display": {
+    "icon": { "id": "voidfiller:void_ingot" },
+    "title": "Void Metallurgy",
+    "description": "Smelt Void Resin into a Void Ingot",
+    "frame": "task",
+    "announce_to_chat": true,
+    "show_toast": true
+  },
+  "criteria": {
+    "got_ingot": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["voidfiller:void_ingot"] }
+        ]
+      }
+    }
+  }
+}

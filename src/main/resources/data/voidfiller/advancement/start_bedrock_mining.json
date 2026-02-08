@@ -1,0 +1,21 @@
+{
+  "display": {
+    "icon": { "id": "voidfiller:bedrock_shard" },
+    "title": "Void filler",
+    "description": "Obtain your first Bedrock Shard",
+    "frame": "task",
+    "announce_to_chat": true,
+    "show_toast": true,
+    "background": "voidfiller:textures/gui/advancements/void_background.png"
+  },
+  "criteria": {
+    "got_shard": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["voidfiller:bedrock_shard"] }
+        ]
+      }
+    }
+  }
+}

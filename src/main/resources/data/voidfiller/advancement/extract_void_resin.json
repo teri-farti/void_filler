@@ -1,0 +1,21 @@
+{
+  "parent": "voidfiller:start_bedrock_mining",
+  "display": {
+    "icon": { "id": "voidfiller:void_resin" },
+    "title": "Void Extraction",
+    "description": "Extract Void Resin using the Generator and Extractor",
+    "frame": "goal",
+    "announce_to_chat": true,
+    "show_toast": true
+  },
+  "criteria": {
+    "got_resin": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["voidfiller:void_resin"] }
+        ]
+      }
+    }
+  }
+}

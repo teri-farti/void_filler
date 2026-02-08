@@ -1,0 +1,19 @@
+{
+  "parent": "voidfiller:craft_void_ingot",
+  "display": {
+    "icon": { "id": "voidfiller:void_alloy" },
+    "title": "Void Alloy Mastery",
+    "description": "Craft the advanced Void Alloy",
+    "frame": "challenge",
+    "announce_to_chat": true,
+    "show_toast": true
+  },
+  "criteria": {
+    "crafted_alloy": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "voidfiller:void_alloy"
+      }
+    }
+  }
+}
