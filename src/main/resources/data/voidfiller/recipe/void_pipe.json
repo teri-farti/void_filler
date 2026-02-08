@@ -6,8 +6,8 @@
     "I I"
   ],
   "key": {
-    "I": { "item": "voidfiller:void_ingot" },
-    "R": { "item": "voidfiller:void_resin" }
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:bedrock_shard" }
   },
   "result": {
     "id": "voidfiller:void_pipe",

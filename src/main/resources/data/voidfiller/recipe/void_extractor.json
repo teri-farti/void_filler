@@ -6,8 +6,8 @@
     "III"
   ],
   "key": {
-    "I": { "item": "voidfiller:void_ingot" },
-    "R": { "item": "voidfiller:void_resin" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "R": { "item": "minecraft:bedrock_shard" },
     "C": { "item": "minecraft:cauldron" }
   },
   "result": {
