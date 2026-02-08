@@ -100,6 +100,8 @@ bc1qvu9vu6s9snfs5n7cytf2hqhkasg9qamwcyumpq
 ## Developer
 teri-farti — VoidFiller
 
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/void-filler
+
 Website: https://teri-farti.github.io/tf_game_page/
 
 GitHub: https://github.com/teri-farti
